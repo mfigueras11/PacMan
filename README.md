@@ -1,7 +1,6 @@
 # Pac-man
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a recreation of the arcade game Pac Man, written in JavaScript and using Ember.
 
 ## Prerequisites
 
@@ -22,7 +21,7 @@ You will need the following things properly installed on your computer.
 
 * `ember server`
 * Visit app at [http://localhost:4200](http://localhost:4200).
-* Use keyboard arrows to move and 
+* Use keyboard arrows to move around.
 
 ## Further Reading / Useful Links
 
